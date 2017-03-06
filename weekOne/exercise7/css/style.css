@@ -1,0 +1,24 @@
+body{
+    background-image: url(http://www.pageresource.com/wallpapers/wallpaper/dragon-ball_1153759.jpg);
+    color:aliceblue;
+}
+img{
+    border: groove;
+    border-color: darkred;
+}
+section{
+    border: groove;
+    border-color: darkred;
+}
+header{
+    padding: 0;
+    background-color: darkred;
+    overflow:auto;
+    
+}
+h1{
+    font-style: italic;
+}
+h2{
+    font-style: oblique;
+}
